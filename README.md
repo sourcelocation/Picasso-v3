@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/sourcelocation/Picasso-v3/main/assets/rounded.png" height="100" width="100" style="border-radius:50%">
 
-# Picasso Issues Page.
+# Picasso Issues and Download Page.
 
 Report your issues in this repository.
 
