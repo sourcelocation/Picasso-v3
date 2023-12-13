@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/sourcelocation/Picasso-v3/main/assets/picasso.png" height="100" width="100" style="border-radius:50%">
+<img src="https://raw.githubusercontent.com/sourcelocation/Picasso-v3/main/assets/rounded.png" height="100" width="100" style="border-radius:50%">
 
 # Picasso Issues Page.
 
