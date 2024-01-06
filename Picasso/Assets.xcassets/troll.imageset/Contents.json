@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "Trollface_non-free.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

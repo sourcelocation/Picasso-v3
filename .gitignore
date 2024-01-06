@@ -1,0 +1,18 @@
+
+## User settings
+xcuserdata/
+
+## Xcode 8 and earlier
+*.xcscmblueprint
+*.xccheckout
+**/.DS_Store
+
+## Output
+Payload*/
+Picasso_obfuscated
+Picasso_obfuscated*
+Picasso_dbg
+TSRootHelper/.theos/obj/*
+*.ipa
+*.tipa
+Picasso.xcodeproj/project.xcworkspace/xcshareddata/swiftpm/Package.resolved

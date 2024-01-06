@@ -1,0 +1,9 @@
+Package: net.sourceloc.picassoroothelper
+Name: picassoroothelper
+Version: 1.1
+Architecture: iphoneos-arm64
+Description: picassoroothelper
+Maintainer: sourcelocation
+Author: sourcelocation
+Section: System
+Tag: role::hacker
