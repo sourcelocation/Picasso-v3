@@ -1,24 +1,39 @@
-<img src="https://raw.githubusercontent.com/sourcelocation/Picasso-v3/main/assets/rounded.png" height="100" width="100" style="border-radius:25%">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sourcelocation/Picasso-v3/main/assets/rounded.png" width="100" height="100">
+</p>
 
-# Picasso
+<h1 align="center">Picasso</h1>
 
-A Jailed toolbox application for ALL arm64e iPhones runnning iOS 15.0 - 15.7.1, 16.0 - 16.5, 16.6b1 using KFD exploit and TrollStore 2.
-    
-Features:
-- Easy to use TrollStore 2 Installer
-- Filesystem Tweak Editor
+<p align="center">
+  A jailed toolbox for all arm64e iPhones on iOS 15.0 – 16.6 beta 1, using the KFD exploit and TrollStore 2.
+</p>
+
+<p align="center">
+  <img src="assets/screenshots/home.png" width="22%">
+  <img src="assets/screenshots/explore.png" width="22%">
+  <img src="assets/screenshots/create.png" width="22%">
+  <img src="assets/screenshots/installed.png" width="22%">
+</p>
+
+## Features
+
+- Easy to use TrollStore 2 installer
+- Filesystem tweak editor
 - Dynamic Island on any device
-- Custom Dock color, Folder background color, Control Center background color, Notification banner background color, Notification shadow color)
+- Custom colors for the Dock, folder backgrounds, Control Center background, notification banners and notification shadows
 - System-wide custom accent colors (instead of blue)
 - MDM Toolbox
 - User-made repositories
 
-Supported iOS versions:
-- iOS 15.0 - 15.7.1
-- iOS 16.0 - 16.5
+## Supported iOS versions
+
+- iOS 15.0 – 15.7.1
+- iOS 16.0 – 16.5
 - iOS 16.6 beta 1
 
-Supported devices:
+<details>
+<summary><b>Supported devices</b></summary>
+
 - iPhone XR
 - iPhone XS
 - iPhone XS Max
@@ -34,12 +49,10 @@ Supported devices:
 - iPhone 13 mini
 - iPhone 13 Pro
 - iPhone 13 Pro Max
-- iPhone SE (3rd gen)
+- iPhone SE (3rd generation)
 - iPhone 14
 - iPhone 14 Plus
 - iPhone 14 Pro
 - iPhone 14 Pro Max
 
-To use Picasso you will need to create an account (it's free) on https://repo.sourceloc.net/package/picasso
-
-Have fun using!
+</details>
