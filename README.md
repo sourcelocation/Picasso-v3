@@ -1,12 +1,5 @@
 <img src="https://raw.githubusercontent.com/sourcelocation/Picasso-v3/main/assets/rounded.png" height="100" width="100" style="border-radius:25%">
 
-# OpenPicasso
-
-We have decided to open source Picasso to allow the community to continue to use and develop it. OpenPicasso is based on the last commit from the main closed-source repository, with all DRM stripped out. You can build a release version with `ipabuild.sh` and a debug version with `ipabuild_debug.sh`. Make sure to clone [PrivateKits](https://github.com/NSAntoine/PrivateKits) in the same folder the OpenPicasso source is in.
-
-So long, and thanks for all the fish.
-
-Original README continues below.
 # Picasso
 
 A Jailed toolbox application for ALL arm64e iPhones runnning iOS 15.0 - 15.7.1, 16.0 - 16.5, 16.6b1 using KFD exploit and TrollStore 2.
